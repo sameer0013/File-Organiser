@@ -1,0 +1,10 @@
+======CENTRAL STORE FOR NECCESSARY PRODUCTS======
+
+	 PRODUCT  :  QUANTITY  :  PRICE 
+	1. biscuit  :  2  :  20
+	2. milk  :  3  :  150
+	3. namkeen  :  1  :  60
+________________________________
+	TOTALBILL  :  230  :  6
+
+======THANKS FOR SHOPPING======
